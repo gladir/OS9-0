@@ -5,7 +5,7 @@ Clone des comamndes de OS-9 écrit en Pascal
 
 <h2>Liste des fichiers</h2>
 
-Voici la liste des différents fichiers proposés dans Corail :
+Voici la liste des différents fichiers proposés dans OS-9 :
 
 <table>
 		<tr>
