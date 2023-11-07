@@ -36,6 +36,10 @@ Voici la liste des différents fichiers proposés dans OS-9 :
 			<td><b>ERROR.PAS</b></td>
 			<td>Cette commande permet d'afficher la description de l'erreur.</td>
 		</tr>
+	<tr>
+		<td><b>LIST.PAS</b></td>
+		<td>Cette commande permet d'afficher le contenu d'un fichier.</td>
+	</tr>
 	   <tr>
 			<td><b>MAKDIR.PAS</b></td>
 			<td>Cette commande permet de créer un répertoire. Cette commande est inspiré du <a href="https://www.gladir.com/OS/OS9/intro.htm">OS-9</a>.</td>
