@@ -12,6 +12,10 @@ Voici la liste des différents fichiers proposés dans Corail :
 			<th>Nom</th>
 			<th>Description</th>	
 		</tr>
+		<tr>
+			<td><b>ATTR.PAS</b></td>
+			<td>Cette commande permet de demander ou de changer l'attribut d'un fichier.</td>
+		</tr>
       <tr>
 			<td><b>BUILD.PAS</b></td>
 			<td>Cette commande permet de construire un fichier texte. Cette commande est inspiré de la commande <a href="https://www.gladir.com/OS/OS9/build.htm">BUILD</a> de <a href="https://www.gladir.com/OS/OS9/intro.htm">OS-9</a>.</td>
